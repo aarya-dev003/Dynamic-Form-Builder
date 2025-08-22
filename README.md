@@ -21,8 +21,8 @@ This project is a backend implementation of a **Dynamic Form Builder** using Dja
 ### Installation
 1. **Clone the Repository**  
    ```bash
-   git clone git@github.com:aarya-dev003/morpheus-rbc.git
-   cd morpheus-rbc
+   git clone https://github.com/aarya-dev003/Dynamic-Form-Builder
+   cd Dynamic-Form-Builder
 
 2. **Create a Virtual Environment**
 
